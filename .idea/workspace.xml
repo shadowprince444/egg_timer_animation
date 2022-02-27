@@ -20,34 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c046f110-6491-4f62-b401-48ce7acaf0e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/controllers/timer_binding.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/controllers/timer_controller.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/utils/app_constants/app_colors.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/utils/app_constants/device_screen_type.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/utils/app_constants/enums.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/utils/screen_utils/size_config.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/utils/screen_utils/text_themes.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/utils/screen_utils/ui_utils.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/utils/screen_utils/widgets/responsive_safe_area.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/utils/screen_utils/widgets/spacing_widgets.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/views/egg_timer_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/widgets/custom_buttons.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/widgets/gradient_cicle_widget.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/widgets/timer_dialer/custom_paint/clock_ticker_custom_painter.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/widgets/timer_dialer/custom_paint/custom_arrow_painter.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/widgets/timer_dialer/digital_timer_widget.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/widgets/timer_dialer/rotating_timer_knob.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/widgets/timer_dialer/timer_dialer_widget.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/egg_timer_android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/android/egg_timer_android.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/controllers/timer_binding.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/controllers/timer_binding.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +72,14 @@
       <option name="presentableId" value="Default" />
       <updated>1645810809790</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added GetX for State Management&#10;and finished the project">
+      <created>1645973279676</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645973279676</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,26 +107,30 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="100" y="100" width="1012" height="616" key="AVDManager/0.0.1536.816@0.0.1536.816" timestamp="1645902209527" />
-    <state width="1151" height="198" key="GridCell.Tab.0.bottom" timestamp="1645905156023">
+    <state width="1495" height="167" key="GridCell.Tab.0.bottom" timestamp="1645973081373">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1151" height="198" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1645905156023" />
-    <state width="1151" height="198" key="GridCell.Tab.0.center" timestamp="1645905156023">
+    <state width="1495" height="167" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1645973081373" />
+    <state width="1495" height="167" key="GridCell.Tab.0.center" timestamp="1645973081372">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1151" height="198" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1645905156023" />
-    <state width="1151" height="198" key="GridCell.Tab.0.left" timestamp="1645905156023">
+    <state width="1495" height="167" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1645973081372" />
+    <state width="1495" height="167" key="GridCell.Tab.0.left" timestamp="1645973081370">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1151" height="198" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1645905156023" />
-    <state width="1151" height="198" key="GridCell.Tab.0.right" timestamp="1645905156023">
+    <state width="1495" height="167" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1645973081370" />
+    <state width="1495" height="167" key="GridCell.Tab.0.right" timestamp="1645973081372">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1151" height="198" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1645905156023" />
+    <state width="1495" height="167" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1645973081372" />
     <state x="145" y="54" key="SettingsEditor" timestamp="1645837057868">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="145" y="54" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1645837057868" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1645973290904">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1645973290904" />
     <state x="425" y="185" key="run.anything.popup" timestamp="1645814866241">
       <screen x="0" y="0" width="1536" height="816" />
     </state>

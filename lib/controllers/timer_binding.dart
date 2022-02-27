@@ -5,6 +5,6 @@ class TimerBinding implements Bindings {
   @override
   void dependencies() {
     Get.put<TimerController>(TimerController());
-    Get.find<TimerController>().setTimer(90);
+    Get.find<TimerController>().setTimer(.5);
   }
 }
