@@ -1,36 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="main.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/main.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
   </component>
-  <component name="ToolWindowManager">
-    <editor active="true" />
-    <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-    </layout>
+  <component name="ChangeListManager">
+    <list default="true" id="c046f110-6491-4f62-b401-48ce7acaf0e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/controllers/timer_binding.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/controllers/timer_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utils/app_constants/app_colors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utils/app_constants/device_screen_type.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utils/app_constants/enums.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utils/screen_utils/size_config.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utils/screen_utils/text_themes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utils/screen_utils/ui_utils.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utils/screen_utils/widgets/responsive_safe_area.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utils/screen_utils/widgets/spacing_widgets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/views/egg_timer_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/custom_buttons.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/gradient_cicle_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/timer_dialer/custom_paint/clock_ticker_custom_painter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/timer_dialer/custom_paint/custom_arrow_painter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/timer_dialer/digital_timer_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/timer_dialer/rotating_timer_knob.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/timer_dialer/timer_dialer_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/egg_timer_android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/android/egg_timer_android.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <option name="show-excluded-files" value="false" />
-      </pane>
-    </panes>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[c27954ac0821]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="25bzwBcLz1ACzsy3FhKPLn6U9si" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\egg_timer_animation\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\egg_timer_animation\lib\widgets\timer_dialer\custom_paint" />
+      <recent name="D:\egg_timer_animation\lib\widgets\timer_dialer" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c046f110-6491-4f62-b401-48ce7acaf0e1" name="Default Changelist" comment="" />
+      <created>1645810809790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645810809790</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added GetX for State Management&#10;and finished the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added GetX for State Management&#10;and finished the project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="239" key="#com.intellij.tools.ToolEditorDialog" timestamp="1645836990382">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="362" y="239" key="#com.intellij.tools.ToolEditorDialog/0.0.1536.816@0.0.1536.816" timestamp="1645836990382" />
+    <state x="100" y="100" width="1012" height="616" key="AVDManager" timestamp="1645902209527">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="100" y="100" width="1012" height="616" key="AVDManager/0.0.1536.816@0.0.1536.816" timestamp="1645902209527" />
+    <state width="1151" height="198" key="GridCell.Tab.0.bottom" timestamp="1645905156023">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1151" height="198" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1645905156023" />
+    <state width="1151" height="198" key="GridCell.Tab.0.center" timestamp="1645905156023">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1151" height="198" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1645905156023" />
+    <state width="1151" height="198" key="GridCell.Tab.0.left" timestamp="1645905156023">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1151" height="198" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1645905156023" />
+    <state width="1151" height="198" key="GridCell.Tab.0.right" timestamp="1645905156023">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1151" height="198" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1645905156023" />
+    <state x="145" y="54" key="SettingsEditor" timestamp="1645837057868">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="145" y="54" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1645837057868" />
+    <state x="425" y="185" key="run.anything.popup" timestamp="1645814866241">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1645814866241" />
+    <state x="270" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1645865322642">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="270" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1645865322642" />
   </component>
 </project>
